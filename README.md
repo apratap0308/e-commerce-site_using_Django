@@ -6,8 +6,11 @@
 
 # To intsall all rhe required dependecies
 pip install django
+
+
 Start the project
 python manage.py runserver
+
 Runs the app.
 Open http://localhost:8000 to view it in the browser.
 
